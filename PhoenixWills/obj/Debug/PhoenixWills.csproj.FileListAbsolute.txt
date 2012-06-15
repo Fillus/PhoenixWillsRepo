@@ -1,0 +1,6 @@
+D:\sites vs2008\PhoenixWills\PhoenixWills\bin\PhoenixWills.dll
+D:\sites vs2008\PhoenixWills\PhoenixWills\bin\PhoenixWills.pdb
+D:\sites vs2008\PhoenixWills\PhoenixWills\obj\Debug\ResolveAssemblyReference.cache
+D:\sites vs2008\PhoenixWills\PhoenixWills\obj\Debug\PhoenixWills.dll
+D:\sites vs2008\PhoenixWills\PhoenixWills\obj\Debug\PhoenixWills.pdb
+D:\sites vs2008\PhoenixWills\PhoenixWills\bin\itextsharp.dll

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoenixWills", "PhoenixWills\PhoenixWills.csproj", "{C0438ACA-C8B1-457A-AD83-63727A1F18DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0438ACA-C8B1-457A-AD83-63727A1F18DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0438ACA-C8B1-457A-AD83-63727A1F18DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0438ACA-C8B1-457A-AD83-63727A1F18DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0438ACA-C8B1-457A-AD83-63727A1F18DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
